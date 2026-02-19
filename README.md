@@ -7,7 +7,9 @@ To run this solution, download the `Gurobi_Optimization` Python file to your loc
 1. Open the Gurobi Optimization python file on VS Code and ensure you click 'Trust' on the file if prompted.
 2. On Line 7 of the python script, change the `username` variable to your computer username (Same as USER above in the download instructions). Save the Python file and close VS Code.
 3. Open the MSE 433 Hospital Operations Excel Tool (Macro enabled). Do not turn on auto save. To save any work, click `CTRL+S`.
-4. On the Excel file, open the Visual Basic code editor and navigate to `Module 2` and update the userName to your computer username. click `CTRL+S` to save this change and exit the Visual Basic code editor. Save the Excel file manually. <img width="649" height="104" alt="image" src="https://github.com/user-attachments/assets/db2f35c0-cfc3-43c7-af23-c2c4a8ea2e49" />
+4. On the Excel file, open the Visual Basic code editor and navigate to `Module 2` and update the userName to your computer username. click `CTRL+S` to save this change and exit the Visual Basic code editor. Save the Excel file manually.
+
+<img width="649" height="104" alt="image" src="https://github.com/user-attachments/assets/db2f35c0-cfc3-43c7-af23-c2c4a8ea2e49" />
 
 ## Steps to Run Solution
 1. Navigate to the Dept Breakdown Excel sheet. This is where you will be acting as a hospital coordinator to specify the number of people arriving/departing the 4 departments and see recommendations.
